@@ -4,7 +4,9 @@
 <img src='https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg' width='500' height='200'>
 
 Hi, I'm Farouk! I'm a self-taught front-end developer with backend skills. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
-
+<br/>
+I work as a freelancer, please contact me if you are interested. atomisefarouk919@gmail.com
+<br/>
 Skills: NEXT JS / REACT / JS / HTML / CSS
 <br/>
 <br/>
