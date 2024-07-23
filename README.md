@@ -18,3 +18,4 @@ Skills: NEXT JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=freshposh-code)  
 
+![](https://komarev.com/ghpvc/?username=freshposh-code)
