@@ -5,7 +5,9 @@
 
 Hi, I'm Farouk! I'm a self-taught front-end developer with backend skills. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
 <br/>
+<br/>
 I work as a freelancer, please contact me if you are interested. atomisefarouk919@gmail.com
+<br/>
 <br/>
 Skills: NEXT JS / REACT / JS / HTML / CSS
 <br/>
