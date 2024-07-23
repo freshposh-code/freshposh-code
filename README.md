@@ -6,11 +6,15 @@
 Hi, I'm Farouk! I'm a self-taught front-end developer with backend skills. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
 
 Skills: NEXT JS / REACT / JS / HTML / CSS
+<br/>
+<br/>
 <img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<br/>
+<br/>
 
 - 🔭 I’m currently working on Full ECommerce App 
 - 🌱 I’m currently learning Laravel 
