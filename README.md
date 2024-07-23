@@ -9,7 +9,11 @@ Hi, I'm Farouk! I'm a self-taught front-end developer with backend skills. I spe
 I work as a freelancer, please contact me if you are interested. atomisefarouk919@gmail.com
 <br/>
 <br/>
-Skills: NEXT JS / REACT / JS / HTML / CSS
+KNOWLEDGE
+
+
+
+Skills: NODE/EXPRESS / NEXT JS / REACT / JS / TS / CSS / HTML
 <br/>
 <br/>
 <img align="left" alt="OpenAI" width="30px" style="padding-right:10px;" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />
