@@ -4,7 +4,6 @@
 </h1>
 
 #### I am Frontend developer
-<img src='https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg' width='500' height='200'>
 
 Hi, I'm Farouk! I'm a self-taught front-end developer with backend skills. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
 <br/>
@@ -20,7 +19,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 <br/>
 <div align="center">
     <img alt="OpenAI" width="50px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />                                                                              
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,javascript,typescript,nextjs,nodejs,mysql" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,javascript,typescript,react,nextjs,nodejs,mui,vscode,github,mysql" />
 </div>
 
 <br/>
