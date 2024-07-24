@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Farouk
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Posh+Code!;" />
 </h1>
@@ -21,7 +20,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 <br/>
 <div align="center">
     <img alt="OpenAI" width="50px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />                                                                              
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,javascript,typescript,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,tailwind,git,javascript,typescript,nextjs,nodejs,mysql" />
 </div>
 
 <br/>
