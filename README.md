@@ -9,7 +9,6 @@ Hi, I'm Farouk! I'm a self-taught front-end developer with backend skills. I spe
 I work as a freelancer, please contact me if you are interested. atomisefarouk919@gmail.com
 <br/>
 <br/>
-KNOWLEDGE
 
 
 
