@@ -1,5 +1,9 @@
 ### Hi there 👋, my name is Farouk
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Posh+Coder!;" />
+</h1>
+
 #### I am Frontend developer
 <img src='https://usa.bootcampcdn.com/wp-content/uploads/sites/106/2020/03/Web-Development-San-Francisco-1.jpeg' width='500' height='200'>
 
