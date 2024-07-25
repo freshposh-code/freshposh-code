@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Posh+Code!;" />
 </h1>
 
-#### I am Frontend developer
+#### I am software engineer
 
-Hi, I'm Farouk! I'm a self-taught front-end developer with backend skills. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
+Hi, I'm Farouk! I'm a self-taught software engineer with backend skills. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
 <br/>
 <br/>
 I work as a freelancer, please contact me if you are interested. atomisefarouk919@gmail.com
