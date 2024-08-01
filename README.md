@@ -29,7 +29,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 <br/>
 <br/>
 
-- 🔭 I’m currently working on Full ECommerce App 
+- 🔭 I’m currently working on a Laravel Project 
 - 🌱 I’m currently learning Laravel 
 - 👯 I’m looking to collaborate on Live Project 
 - ⚡ Fun fact: i love coding 
