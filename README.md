@@ -19,7 +19,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 <br/>
 <div align="center">
     <img alt="OpenAI" width="50px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />                                                                              
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,javascript,typescript,react,redux,nextjs,nodejs,express,mui,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,javascript,typescript,react,redux,nextjs,nodejs,express,vscode,github" />
 </div>
 
 <br/>
