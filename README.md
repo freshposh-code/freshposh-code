@@ -30,7 +30,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 <br/>
 
 - 🔭 I’m currently working on a Laravel Project 
-- 🌱 I’m currently learning Laravel 
+- 🌱 I’m currently learning PHP/LARAVEL
 - 👯 I’m looking to collaborate on Live Project 
 - ⚡ Fun fact: i love coding 
 
