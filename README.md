@@ -20,7 +20,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 </div> -->
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,javascript,typescript,react,redux,firebase,nextjs,nodejs,express,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,javascript,typescript,react,redux,firebase,nextjs,nodejs,express,php,vscode,github" />
 </div>
 
 <br/>
