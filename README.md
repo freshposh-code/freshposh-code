@@ -15,10 +15,11 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
+<div align="center" display="flex" justify="center">
+   <img alt="OpenAI" width="50px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />                                                                              
+</div>
 <br/>
 <div align="center">
-    <img alt="OpenAI" width="50px" src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" />                                                                              
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,javascript,typescript,react,redux,firebase,nextjs,nodejs,express,vscode,github" />
 </div>
 
