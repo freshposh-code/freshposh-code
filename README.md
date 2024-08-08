@@ -23,62 +23,81 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="Next.js" />
+      HTML
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="Next.js" />
+        CSS
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Next.js" />
+        Tailwind
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Next.js" />
+        Bootstrap
     </td>
     <td align="center" width="90">
        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+        Sass
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+        Typescript
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+        Javascript
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+        React
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+        Redux
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
+        NextJs
     </td>
   </tr>
      <tr>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=materialui" width="45" height="45" alt="MUI v5" />
+         MUI
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="MUI v5" />
+         ThreeJs
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="MUI v5" />
+         Firebase
     </td>
      <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="MUI v5" />
+         GIT
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Next.js" />
+        NodeJs
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Next.js" />
+        Express
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+        MDB
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="MongoDB" />
+        Github
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="MongoDB" />
+        VSCode
     </td>
     </tr>
 </table>
