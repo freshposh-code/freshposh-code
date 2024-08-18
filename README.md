@@ -93,7 +93,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-        MYSQL
+        MySQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="MongoDB" />
