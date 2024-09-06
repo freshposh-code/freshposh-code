@@ -113,7 +113,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 <br/>
 - 👯 I’m looking to collaborate on Live Project 
 <br/>
-- ⚡ Fun fact: i love gaming
+- ⚡ Fun fact: i love gaming/building projects
 <br/> 
 <br/> 
 
