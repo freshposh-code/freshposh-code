@@ -72,19 +72,19 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
          ThreeJs
     </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="MUI v5" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase" />
          Firebase
     </td>
      <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="MUI v5" />
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="GIT" />
          GIT
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="node" />
         NodeJs
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="express" />
         Express
     </td>
     <td align="center" width="90">
@@ -95,12 +95,18 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
         MySQL
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="MongoDB" />
-        Github
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="laravel" />
+        Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="github" />
+        Github
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="vscode" />
         VSCode
     </td>
     </tr>
