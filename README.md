@@ -125,6 +125,12 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=freshposh-code)  
+<p align="center">
+   <a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freshposh-code&theme=dark&hide_border=true"/>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
+   </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=freshposh-code)
