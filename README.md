@@ -113,7 +113,7 @@ I work as a freelancer, please contact me if you are interested. atomisefarouk91
 </table>
 
 <br/>
-- 🔭 I’m currently working on a Laravel Project 
+- 🔭 I’m currently working on a Nextjs Project 
 <br/>
 - 🌱 I’m currently learning PHP/LARAVEL
 <br/>
