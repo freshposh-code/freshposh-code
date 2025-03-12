@@ -5,7 +5,7 @@
 
 #### I am software engineer
 
-Hi, I'm Farouk! I'm a self-taught software engineer with a passion for different technologies and full-stack web development. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
+Hi, I'm Farouk! I'm a self-taught software developer with a passion for different technologies and full-stack web development. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
 <br/>
 <br/>
 I work as a freelancer, please contact me if you are interested. atomisefarouk919@gmail.com
