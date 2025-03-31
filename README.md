@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Posh+Code!;" />
 </h1>
 
-#### I am software engineer
+#### I am Software Developer
 
 Hi, I'm Farouk! I'm a self-taught software developer with a passion for different technologies and full-stack web development. I specialize in creating and designing user interfaces (UI) and user experiences (UX), with a focus on adding functionality to websites.
 <br/>
